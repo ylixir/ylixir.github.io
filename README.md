@@ -1,10 +1,12 @@
 # Space Jekyll
 
+Forked from [this](https://github.com/victorvoid/space-jekyll-template).
+
 A simple and elegant Jekyll theme based on Spacemacs. The theme works well on mobile devices as well.
 
-See a live demo [here](https://victorvoid.github.io/space-jekyll-template/).
+See a live demo [here](https://ylixir.github.io/).
 
-![](https://github.com/victorvoid/space-jekyll-template/blob/master/screenshot.png?raw=true)
+![](https://github.com/ylixir/ylixir.github.io/blob/master/screenshot.png?raw=true)
 
 # Site/User Settings
 
@@ -53,7 +55,7 @@ twitter_text: 'How to speak with Lorem'
 
 ## How to insert new links on menu navigation ?
 
-![](https://github.com/victorvoid/space-jekyll-template/blob/master/src/img/menu.png)
+![](https://github.com/ylixir/ylixir.github.io/blob/master/src/img/menu.png)
 
 You should open `_config.yml` and change/add `links` section:
 
@@ -89,23 +91,25 @@ Frontend Technologies
 
 ## How can I modify the theme ?
 
-First, install [jekyll](https://jekyllrb.com/) and [node.js](https://nodejs.org/).
+First, install [nix](https://nixos.org/nix/download.html).
 
 1. Fork the theme with your username, example: `charlie.github.io`
-2. Clone repository to your computer
-3. run `npm install`
-4. run `gulp`
-5. Be happy by modifying the files
+1. Clone repository to your computer
+1. run `nix run`
+1. run `yarn install`
+1. run `gulp`
+1. Be happy by modifying the files
 
-**Space Jekyll** uses the [Stylus](http://stylus-lang.com/) to process his css, then modifies the style of the theme in [this folder](https://github.com/victorvoid/space-jekyll-template/tree/master/src/styl).
+**Space Jekyll** uses the [Stylus](http://stylus-lang.com/) to process his css, then modifies the style of the theme in [this folder](https://github.com/ylixir/ylixir.github.io/tree/master/src/styl).
 
-You can go in the [variable.styl](https://github.com/victorvoid/space-jekyll-template/blob/master/src/styl/_variables.styl) and modify the colors. 
+You can go in the [variable.styl](https://github.com/ylixir/ylixir.github.io/blob/master/src/styl/_variables.styl) and modify the colors. 
 
 
 ## License
 The MIT License (MIT)
 
 Copyright (c) 2016 Victor Igor
+Copyright (c) 2018 Jon Allen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
