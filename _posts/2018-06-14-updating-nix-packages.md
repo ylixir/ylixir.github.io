@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Getting fish play nicely with nixpkg"
+title:  "Updating Nix packages"
 image: ''
 date:   2018-06-14 00:00:00
 tags:
