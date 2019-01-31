@@ -1,6 +1,6 @@
 ---
-title: About
-permalink: /about/
+title: Projects
+permalink: /projects/
 ---
 
 My name is Jon Allen. I am a computer programmer currently living in Marseille, France.
