@@ -1,18 +1,14 @@
-name:               "Ink"
-description:        "A minimalistic jekyll theme for humans"
+name:               "Ylixir"
+description:        "All things ylixir."
 
-url:                ""
-author:             "thinker3197"
-email:              "jhondoe@abc.com"
+url:                "https://ylixir.github.io"
+author:             "Jon Allen"
+email:              "ylixir@gmail.com"
 gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-twitter:            "jhondoe"
-email:              "jhondoe@abc.com"
-github:             "jhondoe"
-pinterest:          "jhondoe"
-linkedin:           "jhondoe"
-facebook:           "jhondoe"
-
-disqus_shortname:   "thinker3197"
+twitter:            "ylixir"
+github:             "ylixir"
+linkedin:           "ylixir"
+facebook:           "ylixir"
 
 background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
