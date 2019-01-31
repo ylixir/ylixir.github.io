@@ -103,7 +103,7 @@ it's meh me since volume control is built in to my headphones.
 My main issue is that audio [doesn't work in Firefox][bluealsa-firefox], and it seems that Netflix has stopped working in
 Chromium. If you wish to try out audio in Chrome you can use the command line parameter `--alsa-output-device=bluealsa`.
 
-[asoundrc]: http://www.alsa-project.org/main/index.php/Asoundrc
+[asoundrc]: https://www.alsa-project.org/main/index.php/Asoundrc
 [arch]: https://wiki.archlinux.org/index.php/Bluetooth_headset#Configuration_via_CLI
 [bluealsa]: https://github.com/Arkq/bluez-alsa
 [void-wiki]: https://wiki.voidlinux.eu/Bluetooth
