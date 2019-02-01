@@ -19,11 +19,13 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
+  - name:           "blog"
+    href:           ""
+  - name:           "about"
     href:           "/about"
-  - name:           "Projects"
+  - name:           "projects"
     href:           "/projects"
-  - name:           "Interests"
+  - name:           "interests"
     href:           "/interests"
 
 sass:
