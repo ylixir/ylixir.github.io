@@ -3,9 +3,15 @@ title: Projects
 permalink: /projects/
 ---
 
-My name is Jon Allen. I am a computer programmer currently living in Marseille, France.
+- [My blog](https://www.github.com/ylixir/ylixir.github.io)
 
-This site was modified from the following:
-<p class="heavy-title"><a href="https://github.com/thinker3197/Ink">Ink</a> is a simple & minimalistic theme for <a href="https://jekyllrb.com">Jekyll</a>, a static site generator.</p>
+  Made with jekyll and hosted by github pages.
 
->Designed and developed by [@thinker3197](https://github.com/thinker3197).
+- [Phap](https://www.github.com/ylixir/phap)
+
+  A library for parsing strings. It's supposed to be super easy to use.
+  Functional and literate and stuff.
+
+- [and more...](https://www.github.com/ylixir/)
+
+  Since there is a good chance that I won't keep this page up to date, feel free to peruse my github repos.

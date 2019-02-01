@@ -3,9 +3,9 @@ title: About
 permalink: /about/
 ---
 
-My name is Jon Allen. I am a computer programmer currently living in Marseille, France.
+My name is Jon Allen. I am an American softwarer developer currently living in Marseille, France.
 
 This site was modified from the following:
-<p class="heavy-title"><a href="https://github.com/thinker3197/Ink">Ink</a> is a simple & minimalistic theme for <a href="https://jekyllrb.com">Jekyll</a>, a static site generator.</p>
+[Ink](https://github.com/thinker3197/Ink): simple & minimalistic theme for [Jekyll](https://jekyllrb.com), a static site generator.
 
 >Designed and developed by [@thinker3197](https://github.com/thinker3197).
