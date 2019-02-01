@@ -29,7 +29,7 @@ permissions took.
 Set up the daemon to start when you start your machine with `# ln -s /etc/sv/bluetoothd /var/service/`. Now you can fire up the
 `$ bluetoothctl` command to manage your devices. This drops you at an octothorp prompt, regardless of whether you are root at
 this point. From here you can fire up your bluetooth infrastructure as follows:
-```
+```shell
 # power on
 # agent on
 # default-agent
@@ -40,14 +40,14 @@ At this point, if you set your headphones to pair, you should see a message like
 Now pair the device with `# pair XX:XX:XX:XX:XX:XX`. The Arch docs indicate that you can connect with
 `# connect XX:XX:XX:XX:XX:XX` at this point. That didn't work for me, I had to `# trust XX:XX:XX:XX:XX:XX` first. Anyhow, once
 you have connected to your device then you can bail from `blootoothctl`.
-```
+```shell
 # scan off
 # exit
 ```
 
 It also turns out that bluetooth is powered off by default. If you want it powered up by default you'll want to make sure you
 have the following setting in `/etc/bluetooth/main.conf`:
-```
+```ini
 [Policy]
 AutoEnable=true
 ```
@@ -56,7 +56,7 @@ Now things get tricky. Bluez has dropped support for ALSA in favor of PulseAudio
 alternative in the form of the [Bluetooth Audio ALSA Backend][bluealsa]. Void doesn't have a package for this, but it's easy
 enough to compile, and the list of dependencies is actually accurate (remember you need the -dev packages). Once you have built
 and installed bluealsa, then you will need to make a daemon for it. Simply put the following in `/etc/sv/bluealsa/run`
-```
+```shell
 #!/bin/sh
 exec /bin/env LIBASOUND_THREAD_SAFE=0 /bin/bluealsa
 ```
