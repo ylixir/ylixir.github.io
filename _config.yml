@@ -20,7 +20,7 @@ markdown:           kramdown
 
 nav:
   - name:           "blog"
-    href:           ""
+    href:           "/"
   - name:           "about"
     href:           "/about"
   - name:           "projects"
