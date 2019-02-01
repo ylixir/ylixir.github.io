@@ -5,14 +5,16 @@ tags:
   - jekyll
   - blogging
   - prose.io
+  - tagist
+description: Easy mode online presence for developpers
 ---
 ## Blogging with prose, jekyll and github
 
 Apparently [github pages](https://pages.github.com/) use [jekyll](https://jekyllrb.com/) as a backend. And [jekyll](https://jekyllrb.com/) supports blogging pretty easily. All you really have to do is follow the directions on [github pages](https://pages.github.com/) to get set up.
 
-Once you have a proper github page set up, then you can find a jekyll template you like from <https://jekyllthemes.org/>.
+Once you have a proper github page set up, then you can find a jekyll template you like from <http://jekyllthemes.org/>.
 
-Now start blogging! One easy way to do this without dealing with the git overhead is to use <prose.io>. I'm using it now and provides a very clean interface for writing.
+Now start blogging! One easy way to do this without dealing with the git overhead is to use <https://prose.io>. I'm using it now and provides a very clean interface for writing.
 
 ### prior art
 - [ink](https://github.com/thinker3197/Ink) is a theme that is easy to modify
