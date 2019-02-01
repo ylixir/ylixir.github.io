@@ -15,7 +15,7 @@ Once you have a proper github page set up, then you can find a jekyll template y
 Now start blogging! One easy way to do this without dealing with the git overhead is to use <prose.io>. I'm using it now and provides a very clean interface for writing.
 
 ### prior art
-- [ink] is a theme that is easy to modify
+- [ink](https://github.com/thinker3197/Ink) is a theme that is easy to modify
 - No idea where I first heard of this. [Maybe it was here](http://allandenot.com/development/2015/01/11/blogging-like-a-dev-jekyll-github-prose-io.html)
 
 ### P.S
