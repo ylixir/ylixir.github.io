@@ -16,10 +16,10 @@ Currenlty my plan of attack is to move everything into the terminal (`tmux`, `vi
 
 ### Resources
 #### Tmux
-- https://medium.freecodecamp.org/tmux-in-practice-series-of-posts-ae34f16cfab0
-- https://hackernoon.com/tmux-in-practice-copy-text-from-remote-session-using-ssh-remote-tunnel-and-systemd-service-dd3c51bca1fa
-- https://sunaku.github.io/tmux-yank-osc52.html
-- https://blog.carbonfive.com/2017/08/17/copying-and-pasting-with-tmux-2-4/
-- https://tmux-plugins.github.io/tmux-yank/
-- https://github.com/tmux-plugins/tpm
-- https://unix.stackexchange.com/questions/58763/copy-text-from-one-tmux-pane-to-another-using-vim
+- <https://medium.freecodecamp.org/tmux-in-practice-series-of-posts-ae34f16cfab0>
+- <https://hackernoon.com/tmux-in-practice-copy-text-from-remote-session-using-ssh-remote-tunnel-and-systemd-service-dd3c51bca1fa>
+- <https://sunaku.github.io/tmux-yank-osc52.html>
+- <https://blog.carbonfive.com/2017/08/17/copying-and-pasting-with-tmux-2-4/>
+- <https://tmux-plugins.github.io/tmux-yank/>
+- <https://github.com/tmux-plugins/tpm>
+- <https://unix.stackexchange.com/questions/58763/copy-text-from-one-tmux-pane-to-another-using-vim>
