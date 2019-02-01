@@ -4,13 +4,11 @@ description:        "All things ylixir."
 url:                "https://ylixir.github.io"
 author:             "Jon Allen"
 email:              "ylixir@gmail.com"
-gravatar_hash:      "1f8cf57244587dee3b566bcab7d21fb4"
+profile_image: "//assets/img/myAvatar.svg"
 twitter:            "ylixir"
 github:             "ylixir"
 linkedin:           "ylixir"
 facebook:           "ylixir"
-
-background:         "https://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
 paginate:           5
 paginate_path:      "/page:num/"

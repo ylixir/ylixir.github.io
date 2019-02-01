@@ -38,19 +38,19 @@ html {
 }
 
 body {
-    color: #515151;
-    background-color: #FAFAFA;
+    color: #fafafa;
+    background-color: #212121;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
 }
 
 a {
-    color: #515151;
+    color: goldenrod;
     text-decoration: none;
     transition: all 0.3s;
     &:hover,
     &:focus {
-        color: #EC407A;
+        color: orange;
         text-decoration: dotted;
     }
 }
@@ -275,7 +275,7 @@ tbody tr:nth-child(odd) th {
 
 .top {
     position: fixed;
-    background: #EC407A;
+    background: darkorange;
     height: 3px;
     width: 100%;
     top: 0;
@@ -306,9 +306,7 @@ tbody tr:nth-child(odd) th {
 
 .profile {
     padding: 2%;
-    background-repeat:no-repeat;
-    background-size: cover; 
-    background-position:center;
+    background-color: darkolivegreen;
     .img-circle {
         height: auto;
         width: 20%;
@@ -398,7 +396,7 @@ tbody tr:nth-child(odd) th {
     }
     .bloghead-nav {
         a {
-            color: #000;
+            color: darkolivegreen;
             font-weight: 800;
             &:hover {
                 color: #424242;
@@ -406,10 +404,10 @@ tbody tr:nth-child(odd) th {
         }
         span {
             font-weight: 800;
-            color: #EC407A;
+            color: darkorange;
             &:hover,
             &:focus {
-                color: #EC407A;
+                color: forestgreen;
                 text-decoration: none;
             }
         }
