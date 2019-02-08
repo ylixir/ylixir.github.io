@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 The official reason docs go with installing bucklescript globally. This results in a development environment that is hard to reproduce.
 
