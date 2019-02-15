@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 So ligatures are awesome. But Firacode is meh. I mean it's perfect, but boring. All other challengers just aren't good. The ligatures are hard to tell apart, or the glyphs have weird spacing or something.
 
